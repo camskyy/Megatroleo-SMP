@@ -1,0 +1,4 @@
+name: HOLASI
+version: ${project.version}
+main: com.main.Main
+api-version: 1.16
